@@ -1,0 +1,34 @@
+﻿<Window x:Class="PayCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PayCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Pay Calculator" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,5,0,0" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Select Level" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="103,63,0,0"/>
+        <ComboBox x:Name="levelCombo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Margin="175,63,0,0"/>
+        <Label Content="Workplace" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="288,63,0,0"/>
+        <ComboBox x:Name="workCombo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="354,63,0,0"/>
+        <Label Content="# ID (e.g. 123)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="539,63,0,0"/>
+        <TextBox x:Name="idTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="61" Margin="622,63,0,0" MaxLength="6"/>
+        <Label Content="Shift Date" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="113,279,0,0"/>
+        <DatePicker x:Name="shiftDatePicker" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="175,279,0,0" Width="85"/>
+        <Label Content="Work Hours" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="103,308,0,0"/>
+        <ComboBox x:Name="workHourCombo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="85" Margin="175,308,0,0"/>
+        <Label Content="Start (e.g. 21:30)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="290,279,0,0"/>
+        <TextBox x:Name="startTimeText" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="54" Margin="386,279,0,0" MaxLength="5"/>
+        <Label Content="End (e.g. 07:00)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="295,308,0,0"/>
+        <TextBox x:Name="endTimeText" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="54" Margin="386,308,0,0" MaxLength="5"/>
+        <CheckBox x:Name="breakCheck" Content="Meal Break" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="483,285,0,0"/>
+        <CheckBox x:Name="uniformCheck" Content="Uniform" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="483,314,0,0"/>
+        <CheckBox x:Name="laundryCheck" Content="Laundry All." HorizontalAlignment="Left" VerticalAlignment="Top" Margin="603,285,0,0"/>
+        <Button x:Name="addButton" Content="Add" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="603,311,0,0" Click="addButton_Click"/>
+        <Button x:Name="resetButton" Content="Reset" HorizontalAlignment="Left" VerticalAlignment="Top" Width="95" Height="20" Margin="103,360,0,0" Click="resetButton_Click"/>
+        <Button x:Name="exitButton" Content="Exit" HorizontalAlignment="Center" VerticalAlignment="Top" Width="95" Height="20" Margin="0,360,0,0" Click="exitButton_Click"/>
+        <Button x:Name="printButton" Content="Print" HorizontalAlignment="Left" VerticalAlignment="Top" Width="95" Height="20" Margin="588,360,0,0" Click="printButton_Click"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Center" Height="180" VerticalAlignment="Top" Width="580" Margin="0,94,0,0" FontFamily="Courier New" FontWeight="Bold"/>
+    </Grid>
+</Window>

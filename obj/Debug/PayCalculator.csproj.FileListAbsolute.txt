@@ -1,0 +1,65 @@
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\bin\Debug\PayCalculator.exe.config
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\bin\Debug\PayCalculator.exe
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\bin\Debug\PayCalculator.pdb
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\PayCalculator.csprojAssemblyReference.cache
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\MainWindow.g.cs
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\App.g.cs
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\PayCalculator_MarkupCompile.cache
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\PayCalculator_MarkupCompile.lref
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\MainWindow.baml
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\PayCalculator.g.resources
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\PayCalculator.Properties.Resources.resources
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\PayCalculator.csproj.GenerateResource.cache
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\PayCalculator.exe
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\PayCalculator.pdb
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\Print.g.cs
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\PayCalculator\obj\Debug\Print.baml
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\PayCalculator.csprojAssemblyReference.cache
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\MainWindow.g.cs
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\Print.g.cs
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\App.g.cs
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\PayCalculator_MarkupCompile.cache
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\PayCalculator_MarkupCompile.lref
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\PayCalculator.exe
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\PayCalculator.pdb
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\bin\Debug\PayCalculator.exe.config
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\bin\Debug\PayCalculator.exe
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\bin\Debug\PayCalculator.pdb
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\MainWindow.baml
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\Print.baml
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\PayCalculator.g.resources
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\PayCalculator.Properties.Resources.resources
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Phase-1_Complete\PayCalculator\obj\Debug\PayCalculator.csproj.GenerateResource.cache
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\bin\Debug\PayCalculator.exe.config
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\bin\Debug\PayCalculator.exe
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\bin\Debug\PayCalculator.pdb
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\PayCalculator.csprojAssemblyReference.cache
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\MainWindow.g.cs
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\Print.g.cs
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\App.g.cs
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\PayCalculator_MarkupCompile.cache
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\PayCalculator_MarkupCompile.lref
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\MainWindow.baml
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\Print.baml
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\PayCalculator.g.resources
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\PayCalculator.Properties.Resources.resources
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\PayCalculator.csproj.GenerateResource.cache
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\PayCalculator.exe
+D:\Google Drive\My Stuff\C-Sharp\Visual_Studio\Portfolio\Work-Branch\PayCalculator\obj\Debug\PayCalculator.pdb
+D:\Development\GitHub\Major_Projects\PayCalculator\bin\Debug\PayCalculator.exe.config
+D:\Development\GitHub\Major_Projects\PayCalculator\bin\Debug\PayCalculator.exe
+D:\Development\GitHub\Major_Projects\PayCalculator\bin\Debug\PayCalculator.pdb
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\PayCalculator.csprojAssemblyReference.cache
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\MainWindow.g.cs
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\Print.g.cs
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\App.g.cs
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\PayCalculator_MarkupCompile.cache
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\PayCalculator_MarkupCompile.lref
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\MainWindow.baml
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\Print.baml
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\PayCalculator.g.resources
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\PayCalculator.Properties.Resources.resources
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\PayCalculator.csproj.GenerateResource.cache
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\PayCalculator.csproj.CoreCompileInputs.cache
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\PayCalculator.exe
+D:\Development\GitHub\Major_Projects\PayCalculator\obj\Debug\PayCalculator.pdb

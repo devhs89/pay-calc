@@ -1,0 +1,16 @@
+﻿<Window x:Class="PayCalculator.Print"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PayCalculator"
+        mc:Ignorable="d"
+        Title="Print" Height="560" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Pay Calculator" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,5,0,0" FontSize="20" FontWeight="Bold"/>
+        <Button x:Name="closeButton" Content="Close" HorizontalAlignment="Left" VerticalAlignment="Top" Width="95" Height="20" Margin="144,453,0,0" Click="closeButton_Click"/>
+        <Button x:Name="backButton" Content="Back" HorizontalAlignment="Center" VerticalAlignment="Top" Width="95" Height="20" Margin="0,453,0,0" Click="backButton_Click"/>
+        <Button x:Name="printPdfButton" Content="Print to PDF" HorizontalAlignment="Left" VerticalAlignment="Top" Width="95" Height="20" Margin="552,453,0,0" Click="printPdfButton_Click"/>
+        <ListBox x:Name="printListBox" HorizontalAlignment="Center" Height="385" VerticalAlignment="Top" Width="596" Margin="0,63,0,0" FontFamily="Courier New" FontWeight="Bold" ScrollViewer.CanContentScroll="False" ScrollViewer.VerticalScrollBarVisibility="Hidden" ScrollViewer.HorizontalScrollBarVisibility="Hidden"/>
+    </Grid>
+</Window>
