@@ -1,4 +1,3 @@
-# Projects - Portfolio
-Completed and In Progress Projects 
+# Pay Calculator
 
-PayCalculator - WPF (.NET & C#) Pay Calculator Application for Enrolled Nurses.  
+PayCalculator - WPF (.NET & C#) Pay Calculator Desktop Application.  
